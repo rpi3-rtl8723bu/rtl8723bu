@@ -1,5 +1,5 @@
 # rtl8723bu
-Driver for Realtek RTL8723BU Wireless Adapter with Hardware ID `0bda:b720`
+Driver for Realtek RTL8723BU Wireless Adapter
 
 # How to use?
 ## Get the source first.
